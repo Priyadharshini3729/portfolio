@@ -3,8 +3,8 @@ import AboutImg from '../assets/about.jpg';
 
 export default function About(){
     const config ={
-        line1:' Hi, My name is  A Priyadharshini. I am Full Stack Developer. I built beautiful Websites with React.js and Tailwind CSS.',
-        line2:'I am Proficient Frontend Skills like React.js, Redux ,Redux Tool Kit, Axio, Tailwind CSS, SaSS ,Css3 and many more constructor.'
+        line1:"Hello, I'm Priyadharshini,a Passionate Frontend Developer specializing in modern web application.", 
+        line2:'Creating innovative and and efficient solutions.'
     
     
     }
@@ -17,6 +17,7 @@ export default function About(){
             <h1 className='text-4xl  border-b-4 border-primary mb-5 w-[170px] font-bold'>About Me</h1>
             <p className='pb-5' >{config.line1} </p>
              <p className='pb-5' > {config.line2}</p>
+             
         </div>
         </div>
     </section>

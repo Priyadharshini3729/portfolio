@@ -2,7 +2,7 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function Resume(){
     const config={
-        link:'https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf'
+        link:' https://acrobat.adobe.com/id/urn:aaid:sc:AP:6864d18d-1457-4eaa-bbf4-e95894713d56 '
     }
     return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5'>
         <div className=' py-5 md:w-1/2 flex  justify-center md:justify-end ' >

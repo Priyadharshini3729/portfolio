@@ -9,17 +9,17 @@ export default function Projects(){
         projects:[
             {
             image:websiteImg1,
-            description:'A Ecommerece Website. Buily with MERN Stack',
+            description:'Built Nxt Watch,modelled after YouTube,enabling users to used.',
             link:'https://Nxtwatch.ccbp.tech/'
         },
         {
             image:websiteImg2,
-            description:'Food Ecommerece website like Swiggy, Built with  Angular & .net',
+            description:'Developed a cutting-edge e-commerce,platform ispired by Amazon and Filkart',
             link:'https://Nxttrendz.ccbp.tech/'
         },
         {
             image:websiteImg3,
-            description:'Basic Blog Website. Built with Next JS And MongoDB',
+            description:'Built a NxtMart Fruits & Vegetables in E-commerce Website',
             link:'https://nxtmartapp.netlify.app/'
         }
     ]
@@ -28,7 +28,7 @@ export default function Projects(){
         <div className="w-full">
         <div className="flex flex-col px-10 py-10">
              <h1 className='text-4xl  border-b-4 border-secondary mb-5 w-[140px] font-bold'>Projects</h1>
-             <p >These are some of my best projects. I have built these with React, MERN and vanilla CSS. Check them out.</p>
+             <p >These are some of my best projects. I have built these with ReactJS, MERN and CSS. Check them out.</p>
         </div>
         </div>
         <div className="w-full">
